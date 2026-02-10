@@ -12,7 +12,6 @@ I'm a passionate web developer with experience in **PHP**, **Python**, **Laravel
 - 👯 I’m eager to collaborate on open-source projects related to web development.
 - 💬 Feel free to ask me about **PHP**, **Python**, **Laravel**, **Django**, **React**, **Node.js**, or any web development queries.
 
-
 ---
 
 ## 🛠️ Technologies & Tools
