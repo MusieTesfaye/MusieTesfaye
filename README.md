@@ -11,8 +11,7 @@ I'm a passionate web developer with experience in **PHP**, **Python**, **Laravel
 - 🌱 I’m currently deepening my knowledge of advanced concepts in **Laravel** and **Django**.
 - 👯 I’m eager to collaborate on open-source projects related to web development.
 - 💬 Feel free to ask me about **PHP**, **Python**, **Laravel**, **Django**, **React**, **Node.js**, or any web development queries.
-- 📫 How to reach me: [tesfabenti13@gmail.com](mailto:tesfabenti13@gmail.com)
-- ⚡ Fun fact: I'm a coffee enthusiast who thrives during coding marathons!
+
 
 ---
 
